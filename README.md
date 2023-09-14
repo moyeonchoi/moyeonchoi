@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a college student. Let's do an open source exercise.
 <!--
 **moyeonchoi/moyeonchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
